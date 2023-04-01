@@ -1,8 +1,7 @@
 package mx.uv.fiee.iinf.poo.primerparcial;
 
-class Entry {
+class Entry<K, V> {
     K key;
     V value;
-    
-    
+
 }
